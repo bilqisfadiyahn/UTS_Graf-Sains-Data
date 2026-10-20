@@ -20,7 +20,7 @@ Proyek ini bertujuan untuk membangun dan mengevaluasi model rekomendasi produk d
 
 Berikut adalah sampel struktur graf interaksi Bipartite (Item vs User) yang diekstrak dari dataset periode P1:
 
-<img src="https://raw.githubusercontent.com/bilqisfadiyahn/UTS_Graf-Sains-Data/main/uts_bilqis_216.ipynb" alt="Visualisasi Subgraph NetworkX" width="100%">
+<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/5a2376d4-515e-4390-8578-cf637f10e388" />
 
 ### Penjelasan Visualisasi:
 1. Node Oranye (Item_...): Mewakili entitas Item (produk) sebagai objek pusat analisis.
