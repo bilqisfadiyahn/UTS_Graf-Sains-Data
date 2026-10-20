@@ -44,4 +44,4 @@ Evaluasi dilakukan pada visitor target untuk menguji performa rekomendasi top-k 
 Catatan Analisis: Nilai metrik evaluasi 0 wajar terjadi pada pengujian sampel individu akibat tingginya tingkat sparsity data pada e-commerce implicit feedback. Namun, pipeline ekstraksi kueri Cypher KNN berbasis Cosine Similarity di Neo4j telah terbukti berjalan dengan sukses.
 
 ---
-Disusun oleh Bilqis Fadiyah - UTS Graf Sains Data
+Disusun oleh Bilqis Fadiyah Nisrina (24031554216) - UTS Graf Sains Data
